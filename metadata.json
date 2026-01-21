@@ -1,0 +1,7 @@
+{
+  "name": "Retell AI Voice Companion",
+  "description": "A modern, high-performance voice AI agent interface powered by Retell AI SDK, featuring real-time visualizers and transcript history.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
